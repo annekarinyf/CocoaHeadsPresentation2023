@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "AC4C0BE8-39D2-40C1-A3C1-AA4A8586F238",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CocoaPresentation.xcodeproj",
+      "identifier" : "6BD0A0962AF02A9600AFC349",
+      "name" : "CocoaPresentation"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CocoaPresentation.xcodeproj",
+        "identifier" : "6BD0A0AC2AF02A9800AFC349",
+        "name" : "CocoaPresentationTests"
+      }
+    }
+  ],
+  "version" : 1
+}

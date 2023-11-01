@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "9420EBED-7B06-4240-A91E-E468DB31E519",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CocoaPresentation.xcodeproj",
+        "identifier" : "6BD0A0AC2AF02A9800AFC349",
+        "name" : "CocoaPresentationTests"
+      }
+    }
+  ],
+  "version" : 1
+}
